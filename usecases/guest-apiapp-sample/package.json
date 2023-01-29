@@ -37,6 +37,6 @@
     "cdk": "^2.61.1",
     "constructs": "^10.1.227",
     "aws-sdk": "^2.1299.0",
-    "aws-xray-sdk": "^3.4.0"
+    "aws-xray-sdk": "^3.4.1"
   }
 }
